@@ -1,0 +1,1 @@
+the code give reminder of a,b if the condtion is a>b or else it gives a as result
